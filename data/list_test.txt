@@ -1,0 +1,10 @@
+data/test/org/0.png,data/test/label/0.png
+data/test/org/1.png,data/test/label/1.png
+data/test/org/2.png,data/test/label/2.png
+data/test/org/3.png,data/test/label/3.png
+data/test/org/4.png,data/test/label/4.png
+data/test/org/5.png,data/test/label/5.png
+data/test/org/6.png,data/test/label/6.png
+data/test/org/7.png,data/test/label/7.png
+data/test/org/8.png,data/test/label/8.png
+data/test/org/9.png,data/test/label/9.png
