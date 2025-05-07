@@ -61,10 +61,17 @@ These plots are saved automatically in the `plots/` directory (make sure it exis
 
 The model is a UNet CNN built for 1-channel (grayscale) input. You can easily replace it with a multi-channel one.
 
+![Model performance](plots/model-performance.png)
+
 ## Notes
 
 * Images and masks must be grayscale.
 * Resize dimensions can be adjusted in the transform pipeline (`train.py`).
+
+## Dataset
+
+The dataset used for training and testing is sourced from the Japanese Society of Radiological Technology (JSRT).
+- Link: [JSRT Database](http://db.jsrt.or.jp/eng.php)
 
 ## License
 
